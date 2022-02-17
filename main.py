@@ -37,5 +37,4 @@ for venda in vendas:
             produto_mais_vendido = produto
             qtde_produto_mais_vendido = qtde
 
-print("Produto mais vendido em 21/08/2020 foi o {}, com {} unidades vendidas.".format(
-    produto_mais_vendido, qtde_produto_mais_vendido))
+print("Produto mais vendido em 21/08/2020 foi o {}, com {} unidades vendidas.".format(produto_mais_vendido, qtde_produto_mais_vendido))
