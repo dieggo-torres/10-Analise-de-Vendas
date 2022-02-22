@@ -1,4 +1,4 @@
-# Análise de Vendas
+# [Intermediário] Análise de Vendas
 Este programa recebe uma lista de tuplas com os dados de vendas de produtos. Cada tupla contém as seguintes informações:
 
 1. Data da venda;
